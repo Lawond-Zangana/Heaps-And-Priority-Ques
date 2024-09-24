@@ -1,1 +1,1 @@
-# Heaps-And-Priority-Ques
+# Heaps-And-Priority-Queues
